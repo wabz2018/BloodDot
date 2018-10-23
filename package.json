@@ -1,0 +1,32 @@
+{
+  "name": "blooddot",
+  "version": "1.0.0",
+  "description": "blood dot is a center resipotory for people to donate and request blood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo happy path"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BloodDot"
+  },
+  "keywords": [
+    "Blood",
+    "Save",
+    "the",
+    "Human",
+    "Be",
+    "my",
+    "friend"
+  ],
+  "author": "vincent.wabwobwa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "mysql": "^2.16.0",
+    "req-flash": "0.0.3"
+  }
+}
